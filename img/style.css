@@ -4,7 +4,7 @@ body{
     height: 100vh;
 
     /* background image properties */
-    background-image: url("./img/background.png");
+    background-image: url("./background.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
